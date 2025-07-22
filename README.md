@@ -1,5 +1,3 @@
-## CALLING ALL GAMERS
+## Hello!
 
-Hey, friends. My name is Jake and I am an aspiring software engineer. Being born in the year 2000, I came into this world witnessing the unfolding of the internet. As a result, I know my way around a computer, and I'm more than well versed in surfing the web. I'm an ideas guy, so I'm hoping by studying programming, I will be able to execute on some of these great ideas I have. Anyway, enjoy your stay on my profile!
-
-I'm currently doing a bootcamp at TripleTen. I'll be sure to let you know when I've finished.
+Experienced service professional with a passion for software engineering and exceptional team project experiences. Confident in web development and well learned in many programming languages including JavaScript. Proficient in fostering a positive learning environment and providing constructive feedback, as well as receiving it, to improve performance. Results-oriented individual who is dedicated to ensuring satisfactory results and maximizing business success. 
